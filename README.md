@@ -31,7 +31,7 @@ See http://mean.io for more indepth information about mean.
 
   Run your app:
 
-    $ grunt
+    $ gulp
     
   Once you have a user assign the user the admin role:
   
